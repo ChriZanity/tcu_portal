@@ -1,0 +1,106 @@
+//////////Buttons////////////////////
+
+add_stud- Add Students
+add_prof- Add Professors
+add_sub- Add Subjects
+add_del_sec- Add and Delete Section
+delete_stud- Delete Batch Students
+delete_prof- Delete Professors
+assign_sec- Assign and Unassign Subject to Sections
+assign_irreg- Assign and Unassign Subject to Irregs
+assign_prof- Assign and Unassign Subject to Profs
+change_sem- Change Semester
+
+/////////Form per Buttons////////////////
+
+add_stud_form- Add Student Form
+add_prof_form- Add Prof Form
+add_sub_form- Add Sub Form
+add_del_section- Add and Delete Section Form
+del_batchstud_form- Delete Batch Student Form
+del_prof_form- Delete Professors Form
+unassign_assign_subtosec- Sub to Sections Form
+unassign_assign_subtoirreg- Sub to Irreg Form
+unassign_assign_subtoprof- Sub to Prof Form
+change_sem_form- Change Sem Form
+
+/////////Upload files per form////////////////
+
+add_stud_upload- Add Student Upload
+add_stud_container- Container of Upload
+
+add_prof_upload- Add Prof Upload
+add_prof_container- Container of Upload
+
+add_sub_upload- Add Sub Upload
+add_sub_container- Container of Upload
+
+add_sec_upload- Add Section Upload
+add_sec_container- Container of Upload
+
+
+assign_subtosec_upload- Assign Sub to Section Upload
+assign_subtosec_container- Container of Upload
+
+unassign_subtosec_upload- Unassign Sub to Section Upload
+unassign_subtosec_container- Container of Upload
+
+
+
+assign_subtoirreg_upload- Assign Sub to Irregs Upload
+assign_subtoirreg_container- Container of Upload
+
+unassign_subtoirreg_upload- Unassign Sub to Irregs Upload
+unassign_subtoirreg_container- Container of Upload
+
+
+assign_subtoprof_upload- Assign Sub to Profs Upload
+assign_subtoprof_container- Container of Upload
+
+unassign_subtoprof_upload- Unassign Sub to Profs Upload
+unassign_subtoprof_container- Container of Upload
+
+
+//////Search Bar and Search Results Dropdown////////////////
+
+delete_sec_searchbar- Delete Section
+delete_sec_searchresults- Dropdown Results
+delete_sec_deletebtn- deletebutton
+
+
+delete_batchstud_search- Delete Batch Students
+delete_batchstud_searchresults- Dropdown Results
+del_batchstud_deletebtn- deletebutton
+
+
+change_sem_search- Delete Professors
+change_sem_searchresults- Dropdown Results
+change_sem_changebtn- changebutton
+
+
+///////////////Dropdown Menu/ Sidebar/////////////////
+
+menu- menu button at the left side of the navpanel
+dropdownmenu- sidebar
+dropdown_closebtn- close button at the top right of sidebar
+
+dashboard_panel- panel of the dashboard
+dashboard_text- text of the dashboard
+
+students_panel- panel of the students
+students_text- text of the students
+
+sections_panel- panel of the sections
+sections_text- text of the sections
+
+gradecriteria_panel- panel of the grade criteria
+gradecriteria_text- text of the grade criteria
+
+logout_panel- panel of the logout
+logout_text- text of the logout
+
+
+///////////////Grading Criteria/////////////////////////////
+
+
+gradingcriteria_table- Table of Grading Criterias
