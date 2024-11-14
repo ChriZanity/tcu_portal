@@ -1,0 +1,17 @@
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\Admin_Page.Form1.resources
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\PageAdmin.csproj.GenerateResource.cache
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\PageAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\PageAdmin.AssemblyInfoInputs.cache
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\PageAdmin.AssemblyInfo.cs
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\PageAdmin.csproj.CoreCompileInputs.cache
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\bin\Debug\net8.0-windows\PageAdmin.exe
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\bin\Debug\net8.0-windows\PageAdmin.deps.json
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\bin\Debug\net8.0-windows\PageAdmin.runtimeconfig.json
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\bin\Debug\net8.0-windows\PageAdmin.dll
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\bin\Debug\net8.0-windows\PageAdmin.pdb
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\PageAdmin.dll
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\refint\PageAdmin.dll
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\PageAdmin.pdb
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\PageAdmin.genruntimeconfig.cache
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\ref\PageAdmin.dll
+C:\Users\CHRISTIAN\source\repos\PageAdmin\PageAdmin\obj\Debug\net8.0-windows\PageAdmin.Properties.Resources.resources
